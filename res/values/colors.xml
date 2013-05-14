@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="story_red">#e46f61</color>
+    <color name="people_blue">#76a7fa</color>
+    <color name="contact_yellow">#f9b256</color>
+    <color name="line_2">#757575</color>
+    <color name="grey_border">#d0d0d0</color>
+    <color name="shadow">#dcdcdc</color>
+    <color name="white">#FFFFFF</color>
+</resources>

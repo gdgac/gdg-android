@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="Theme.GDG" parent="Theme.Sherlock.Light">
+    <item name="vpiTitlePageIndicatorStyle">@style/TitlePageIndicatorGDG</item>
+
+    <item name="actionBarStyle">@style/ActionBarGDG</item>
+    <item name="android:actionBarStyle">@style/ActionBarGDG</item>
+
+    <item name="android:editTextStyle">@style/EditTextGDG</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewGDG</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxGDG</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonGDG</item>
+
+    <item name="android:buttonStyle">@style/ButtonGDG</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonGDG</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerGDG</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerGDG.DropDown</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemGDG</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarGDG</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarGDG</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarGDG</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigGDG</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallGDG</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleGDG</item>
+
+    <item name="android:listViewStyle">@style/ListViewGDG</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewGDG.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemGDG</item>
+
+  </style>
+
+</resources>
